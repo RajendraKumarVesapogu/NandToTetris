@@ -1,6 +1,0 @@
-@45
-M=A
-//FAJSHFKJHALDS
-D=M
-@82
-A=M
